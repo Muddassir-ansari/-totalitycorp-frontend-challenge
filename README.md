@@ -1,70 +1,21 @@
-# Getting Started with Create React App
+ECommerce Website Briefly description of my project here.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Tech Stack Programming Languages: JavaScript Frontend Framework: React.js Libraries/Packages: React Router DOM, Bootstrap, Redux Version Control System: Git Development Environment: Visual Studio Code Operating System: Windows 10 Professional
 
-## Available Scripts
+Installation Instructions To set up the project locally, follow these steps:
 
-In the project directory, you can run:
+Download and install Visual Studio Code.
 
-### `npm start`
+Clone the project repository from GitHub: bash Copy code git clone https://github.com/Muddassir-ansari/-totalitycorp-frontend-challenge. Navigate to the project directory:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+bash Copy code cd E-Commerce Website Install project dependencies:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Copy code npm install Start the development server:
 
-### `npm test`
+sql Copy code npm start Usage Login: Use the login feature to access your account. Signup: Create a new account if you don't have one. Navigation: Use the navigation bar to move between different sections. User Display: View the information of logged-in users and log out when needed. Home Page: Explore and browse through a list of products. Shopping Cart: Add products to your cart and perform actions such as increment, decrement, and delete. Checkout: Proceed to the checkout form and finalize your purchase with the print bill option. Contributing We welcome contributions! To contribute to this project, please follow our guidelines for contributions. Make sure to adhere to our coding standards and refer to any relevant documentation.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Deployment This project is deployed on Netlify. Deployment is done manually.
 
-### `npm run build`
+Acknowledgments We would like to give credit to the following resources:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Bootstrap Font Awesome Google Fonts Contact Information.
