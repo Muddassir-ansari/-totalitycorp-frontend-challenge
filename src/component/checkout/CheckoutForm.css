@@ -1,0 +1,22 @@
+h2 {
+  font-size: 40px;
+  background: linear-gradient(to left, #ff3300 0%, #660066 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.redeem-btn {
+  background-color: #660066;
+  color: white;
+}
+.redeem-btn:hover {
+  background-color: #9b6fa2;
+  color: black;
+}
+.checkout-btn {
+  background-color: #660066;
+  color: white;
+}
+.checkout-btn:hover {
+  background-color: #9b6fa2;
+  color: black;
+}

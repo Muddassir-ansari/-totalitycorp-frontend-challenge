@@ -1,0 +1,27 @@
+/* Footer.css */
+
+/* Footer container styles */
+.footer-container {
+  background-color: #efe4ee;
+  color: #5c355b;
+  padding: 20px;
+  text-align: center;
+}
+
+/* Footer text styles */
+.footer-text {
+  font-size: 16px;
+  margin: 0;
+}
+
+/* Footer link styles */
+.footer-link {
+  color: #5c355b;
+  text-decoration: none;
+  transition: color 0.3s;
+}
+
+/* Footer link hover effect */
+.footer-link:hover {
+  color: #9b6fa2;
+}
